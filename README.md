@@ -2,6 +2,11 @@
 
 Este projeto realiza o **cadastro automatizado de produtos** em um painel administrativo utilizando **Selenium WebDriver**, com dados fornecidos via **CSV**.  
 
+<p align="center">
+  <img src="https://github.com/GustavoRio99/Automacao-Cadastro-Produtos/blob/main/automaca.gif?raw=true" alt="Automação Cadastro de Produtos">
+</p>
+
+
 ---
 
 ## ⚙️ Funcionalidades
