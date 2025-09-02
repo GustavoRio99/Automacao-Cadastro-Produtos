@@ -68,14 +68,7 @@ Selenium
 
 python-dotenv
 
-🔒 Segurança
-
-Nunca versione o .env com credenciais reais.
-
-Utilize variáveis de ambiente para manter os dados sensíveis fora do código.
-
 📌 Observações
 
-O seletor dos elementos (By.ID, By.CSS_SELECTOR) pode variar conforme alterações no site.
 
 Ajuste o tempo de espera (WebDriverWait) caso a conexão ou site seja lento.
