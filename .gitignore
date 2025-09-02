@@ -1,0 +1,49 @@
+# Arquivos de Segredos e Ambiente
+# A linha mais importante! Impede que suas senhas vazem.
+.env
+
+# Ambientes Virtuais (Virtual Environments)
+# Ignora a pasta inteira do ambiente virtual
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Arquivos de Cache e Bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Arquivos de Distribuição e Build
+/dist/
+/build/
+*.egg-info/
+*.egg
+
+# IDEs e Editores de Código
+# Visual Studio Code
+.vscode/
+# PyCharm
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Sistema Operacional
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# Logs e Arquivos de Teste
+*.log
+geckodriver.log
+chromedriver.log
+
+# Arquivos de Automação (Opcional, mas recomendado)
+# Se seu script salva screenshots de erros ou baixa arquivos
+/screenshots/
+/downloads/
